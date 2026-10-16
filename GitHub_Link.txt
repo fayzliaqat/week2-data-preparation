@@ -1,0 +1,7 @@
+Week 2: Loan Data Preparation
+Fayz Liaqat
+
+Public GitHub repository:
+https://github.com/fayzliaqat/week2-data-preparation
+
+For Google Classroom, upload report/Week_2_Data_Preparation_Report.pdf and paste the repository link above.
